@@ -1,0 +1,1 @@
+web: solara run bank_robber_escape.py --host=0.0.0.0 --port=$PORT
