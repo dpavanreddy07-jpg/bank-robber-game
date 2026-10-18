@@ -1,4 +1,4 @@
-# 🏦 Bank Robber Escape
+# Bank Robber Escape
 
 A single-file Solara game (balanced version) featuring 3 robbers, 2 police officers, 5 money bags, and 1 exit[cite: 1].
 
@@ -15,7 +15,7 @@ Pick a scenario in the UI to change who is favoured[cite: 1]:
 * **Robbers win**: Slow, sleepy police far away, only 2 bags needed, no exit guard[cite: 1].
 * **Police win**: Police as fast as robbers, start close, 4 bags needed, guard the exit[cite: 1].
 
-## 🚀 Running Locally
+## Running Locally
 
 1. Install the required dependencies:
    ```bash
